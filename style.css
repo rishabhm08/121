@@ -1,0 +1,50 @@
+body {
+    background-color:aquamarine;
+    text-align: center;
+    
+}
+#Header{
+    font-family: fantasy;
+    color: blue;
+    background-color:burlywood;
+    height: 100;
+    margin-top: 5px;
+    padding-top: 19px;
+    border-radius: 20px;
+}
+ #Image_1,  #Image_3,  #Image_5, #Image_7, #Image_9{
+    height: 500px;
+    width: 1200px;
+    background-color:burlywood;
+    padding-left: 30px;
+    margin-right: 30px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    text-align: left;
+    border-radius: 50px;
+    border-color:brown;
+    color: blue;
+    box-shadow: beige;
+}
+#Image_2,  #Image_4,  #Image_6, #Image_8, #Image_10{
+    margin-left: 250;
+    height: 500px;
+    width: 1200px;
+    background-color:burlywood;
+    padding-left: 30px;
+    margin-right: 30px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    text-align: left;
+    border-radius: 50px;
+    border-color:brown;
+    color: blue;
+    box-shadow: beige;
+}
+#footer{
+    position: fixed;
+    bottom: 0; 
+    height: 20px; 
+    width: 100%; 
+    text-align: end;
+}
